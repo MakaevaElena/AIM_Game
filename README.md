@@ -2,6 +2,7 @@
 ---
 Игра "пятнашки"
 ---
+https://makaevaelena.github.io/AIM_Game/
 
-<a href="#" ><img src="" heigth="400"></a>
+<a href="https://makaevaelena.github.io/AIM_Game/" ><img src="" heigth="400"></a>
 ---
